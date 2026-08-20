@@ -245,5 +245,14 @@
       "You need to start merging the feature branches."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1787270325.379108,
+    "completed_at": 1787270328.562426,
+    "comments": [
+      "You need to start merging the feature branches."
+    ],
+    "status": "Incomplete"
   }
 ]
