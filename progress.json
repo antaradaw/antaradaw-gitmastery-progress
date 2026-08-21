@@ -236,32 +236,5 @@
       "Good work reverting commits!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-bender",
-    "started_at": 1787270179.846817,
-    "completed_at": 1787270183.081301,
-    "comments": [
-      "You need to start merging the feature branches."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-bender",
-    "started_at": 1787270325.379108,
-    "completed_at": 1787270328.562426,
-    "comments": [
-      "You need to start merging the feature branches."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-bender",
-    "started_at": 1787270442.967465,
-    "completed_at": 1787270447.231635,
-    "comments": [
-      "You need to start merging the feature branches."
-    ],
-    "status": "Incomplete"
   }
 ]
