@@ -344,14 +344,5 @@
       "Nice work renaming the branch locally and on the remote!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-bender",
-    "started_at": 1787300201.563114,
-    "completed_at": 1787300204.678222,
-    "comments": [
-      "You are missing some merges"
-    ],
-    "status": "Incomplete"
   }
 ]
